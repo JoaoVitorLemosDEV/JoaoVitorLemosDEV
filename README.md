@@ -1,4 +1,12 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1>👋 Olá, eu sou João Vitor!</h1>
+
+Desenvolvedor **Full-Stack**
+
+<h2>🚀 Sobre Mim</h2>
+
+- 🎓 Graduando em Sistemas de Informação pelo IFBA; 
+- 💻 Atuação no desenvolvimento Full-Stack;
+- 📚 Desde pequeno, sempre tive interesse em tecnologia. Adorava explorar computadores e mexer em dispositivos eletrônicos. Agora, cursando Sistemas de Informação, estou mergulhando mais fundo nesse mundo, aprendendo a desenvolver sistemas, analisar dados e criar soluções tecnológicas.
 
 ###
 
